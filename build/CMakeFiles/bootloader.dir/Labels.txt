@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/bootloader
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/bootloader.rule
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/bootloader-complete.rule
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
