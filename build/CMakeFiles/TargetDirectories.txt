@@ -15,6 +15,9 @@ D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFile
 D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/size-components.dir
 D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/uf2-app.dir
 D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/uf2.dir
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/spiffs_storage0_bin.dir
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/spiffs_storage1_bin.dir
+D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/spiffs_storage2_bin.dir
 D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/edit_cache.dir
 D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/rebuild_cache.dir
 D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/build/CMakeFiles/list_install_components.dir

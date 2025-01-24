@@ -4025,6 +4025,718 @@
                 "children": [
                     {
                         "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9225.",
+                        "id": "ILI9225",
+                        "name": "ILI9225",
+                        "range": null,
+                        "title": "ILI9225",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9226.\nSame as ILI9225.",
+                        "id": "ILI9226",
+                        "name": "ILI9226",
+                        "range": null,
+                        "title": "ILI9226",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9320.",
+                        "id": "ILI9320",
+                        "name": "ILI9320",
+                        "range": null,
+                        "title": "ILI9320",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9325.",
+                        "id": "ILI9325",
+                        "name": "ILI9325",
+                        "range": null,
+                        "title": "ILI9325",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9327.",
+                        "id": "ILI9327",
+                        "name": "ILI9327",
+                        "range": null,
+                        "title": "ILI9327",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9340.\nSame as ILI9340.",
+                        "id": "ILI9340",
+                        "name": "ILI9340",
+                        "range": null,
+                        "title": "ILI9340",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9341.",
+                        "id": "ILI9341",
+                        "name": "ILI9341",
+                        "range": null,
+                        "title": "ILI9341",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9342.",
+                        "id": "ILI9342",
+                        "name": "ILI9342",
+                        "range": null,
+                        "title": "ILI9342",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9481.",
+                        "id": "ILI9481",
+                        "name": "ILI9481",
+                        "range": null,
+                        "title": "ILI9481",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9486.\nSame as ST7796.",
+                        "id": "ILI9486",
+                        "name": "ILI9486",
+                        "range": null,
+                        "title": "ILI9486",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ILI9488.",
+                        "id": "ILI9488",
+                        "name": "ILI9488",
+                        "range": null,
+                        "title": "ILI9488",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is SPFD5408.\nSame as ILI9320.",
+                        "id": "SPFD5408",
+                        "name": "SPFD5408",
+                        "range": null,
+                        "title": "SPFD5408",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is R61505.\nSame as ILI9320.",
+                        "id": "R61505",
+                        "name": "R61505",
+                        "range": null,
+                        "title": "R61505",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is R61509.",
+                        "id": "R61509",
+                        "name": "R61509",
+                        "range": null,
+                        "title": "R61509",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is LGDP4532.",
+                        "id": "LGDP4532",
+                        "name": "LGDP4532",
+                        "range": null,
+                        "title": "LGDP4532",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ST7775.\nSame as ILI9225.",
+                        "id": "ST7775",
+                        "name": "ST7775",
+                        "range": null,
+                        "title": "ST7775",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ST7781.\nSame as ST7783.",
+                        "id": "ST7781",
+                        "name": "ST7781",
+                        "range": null,
+                        "title": "ST7781",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ST7783.\nSame as ST7781.",
+                        "id": "ST7783",
+                        "name": "ST7783",
+                        "range": null,
+                        "title": "ST7783",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ST7793.\nSame as R61509.",
+                        "id": "ST7793",
+                        "name": "ST7793",
+                        "range": null,
+                        "title": "ST7793",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is ST7796.\nSame as ILI9486.",
+                        "id": "ST7796",
+                        "name": "ST7796",
+                        "range": null,
+                        "title": "ST7796",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is S6D1121.",
+                        "id": "S6D1121",
+                        "name": "S6D1121",
+                        "range": null,
+                        "title": "S6D1121",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is HX8347A.",
+                        "id": "HX8347A",
+                        "name": "HX8347A",
+                        "range": null,
+                        "title": "HX8347A",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is HX8347D.",
+                        "id": "HX8347D",
+                        "name": "HX8347D",
+                        "range": null,
+                        "title": "HX8347D",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is HX8347G.",
+                        "id": "HX8347G",
+                        "name": "HX8347G",
+                        "range": null,
+                        "title": "HX8347G",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice DRIVER>",
+                        "help": "Display Driver is HX8347I.",
+                        "id": "HX8347I",
+                        "name": "HX8347I",
+                        "range": null,
+                        "title": "HX8347I",
+                        "type": "bool"
+                    }
+                ],
+                "depends_on": null,
+                "help": "Select Display Driver.",
+                "id": "tft-configuration-display-driver",
+                "name": "DRIVER",
+                "title": "Display Driver",
+                "type": "choice"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "depends_on": "<choice INTERFACE>",
+                        "help": "Parallel Interface is I2S.",
+                        "id": "INTERFACE_I2S",
+                        "name": "INTERFACE_I2S",
+                        "range": null,
+                        "title": "I2S Parallel Interface",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice INTERFACE>",
+                        "help": "Parallel Interface is REGISTER I/O.",
+                        "id": "INTERFACE_REG",
+                        "name": "INTERFACE_REG",
+                        "range": null,
+                        "title": "REGISTER Parallel Interface",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "<choice INTERFACE>",
+                        "help": "Parallel Interface is GPIO.",
+                        "id": "INTERFACE_GPIO",
+                        "name": "INTERFACE_GPIO",
+                        "range": null,
+                        "title": "GPIO Parallel Interface",
+                        "type": "bool"
+                    }
+                ],
+                "depends_on": null,
+                "help": "Select Parallel Interface.",
+                "id": "tft-configuration-parallel-interface",
+                "name": "INTERFACE",
+                "title": "Parallel Interface",
+                "type": "choice"
+            },
+            {
+                "children": [],
+                "depends_on": null,
+                "help": "The width resolution of the screen.",
+                "id": "WIDTH",
+                "name": "WIDTH",
+                "range": [
+                    0,
+                    999
+                ],
+                "title": "SCREEN WIDTH",
+                "type": "int"
+            },
+            {
+                "children": [],
+                "depends_on": null,
+                "help": "The height resolution of the screen.",
+                "id": "HEIGHT",
+                "name": "HEIGHT",
+                "range": [
+                    0,
+                    999
+                ],
+                "title": "SCREEN HEIGHT",
+                "type": "int"
+            },
+            {
+                "children": [],
+                "depends_on": null,
+                "help": "When your TFT have offset(X), set it.",
+                "id": "OFFSETX",
+                "name": "OFFSETX",
+                "range": [
+                    0,
+                    99
+                ],
+                "title": "GRAM X OFFSET",
+                "type": "int"
+            },
+            {
+                "children": [],
+                "depends_on": null,
+                "help": "When your TFT have offset(Y), set it.",
+                "id": "OFFSETY",
+                "name": "OFFSETY",
+                "range": [
+                    0,
+                    99
+                ],
+                "title": "GRAM Y OFFSET",
+                "type": "int"
+            },
+            {
+                "children": [],
+                "depends_on": null,
+                "help": "Enable Display Inversion.",
+                "id": "INVERSION",
+                "name": "INVERSION",
+                "range": null,
+                "title": "Enable Display Inversion",
+                "type": "bool"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD D0.",
+                        "id": "D0_GPIO",
+                        "name": "D0_GPIO",
+                        "range": null,
+                        "title": "D0 GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD D1.",
+                        "id": "D1_GPIO",
+                        "name": "D1_GPIO",
+                        "range": null,
+                        "title": "D1 GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD D2.",
+                        "id": "D2_GPIO",
+                        "name": "D2_GPIO",
+                        "range": null,
+                        "title": "D2 GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD D3.",
+                        "id": "D3_GPIO",
+                        "name": "D3_GPIO",
+                        "range": null,
+                        "title": "D3 GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD D4.",
+                        "id": "D4_GPIO",
+                        "name": "D4_GPIO",
+                        "range": null,
+                        "title": "D4 GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD D5.",
+                        "id": "D5_GPIO",
+                        "name": "D5_GPIO",
+                        "range": null,
+                        "title": "D5 GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD D6.",
+                        "id": "D6_GPIO",
+                        "name": "D6_GPIO",
+                        "range": null,
+                        "title": "D6 GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD D7.",
+                        "id": "D7_GPIO",
+                        "name": "D7_GPIO",
+                        "range": null,
+                        "title": "D7 GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD RD.",
+                        "id": "RD_GPIO",
+                        "name": "RD_GPIO",
+                        "range": null,
+                        "title": "RD GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD WR.",
+                        "id": "WR_GPIO",
+                        "name": "WR_GPIO",
+                        "range": null,
+                        "title": "WR GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD RS.",
+                        "id": "RS_GPIO",
+                        "name": "RS_GPIO",
+                        "range": null,
+                        "title": "RS GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD CS.",
+                        "id": "CS_GPIO",
+                        "name": "CS_GPIO",
+                        "range": null,
+                        "title": "CS GPIO number",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "CUSTOM_GPIO_CONFIG",
+                        "help": "GPIO number (IOxx) to LCD RESET.",
+                        "id": "RESET_GPIO",
+                        "name": "RESET_GPIO",
+                        "range": null,
+                        "title": "RESET GPIO number",
+                        "type": "int"
+                    }
+                ],
+                "depends_on": null,
+                "help": "Enable Custom GPIO.",
+                "id": "CUSTOM_GPIO_CONFIG",
+                "name": "CUSTOM_GPIO_CONFIG",
+                "range": null,
+                "title": "Enable Custom GPIO",
+                "type": "bool"
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "depends_on": "ENABLE_TOUCH",
+                        "help": "ADC Channel Y+.",
+                        "id": "ADC_CHANNEL_YP",
+                        "name": "ADC_CHANNEL_YP",
+                        "range": null,
+                        "title": "ADC Channel Y+",
+                        "type": "int"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "ENABLE_TOUCH",
+                        "help": "ADC Channel X-.",
+                        "id": "ADC_CHANNEL_XM",
+                        "name": "ADC_CHANNEL_XM",
+                        "range": null,
+                        "title": "ADC Channel X-",
+                        "type": "int"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "depends_on": "<choice XP_GPIO>",
+                                "help": "\"GPIO_D6\"",
+                                "id": "XP_GPIO_D6",
+                                "name": "XP_GPIO_D6",
+                                "range": null,
+                                "title": "GPIO_D6",
+                                "type": "bool"
+                            },
+                            {
+                                "children": [],
+                                "depends_on": "<choice XP_GPIO>",
+                                "help": "\"GPIO_D0\"",
+                                "id": "XP_GPIO_D0",
+                                "name": "XP_GPIO_D0",
+                                "range": null,
+                                "title": "GPIO_D0",
+                                "type": "bool"
+                            },
+                            {
+                                "children": [],
+                                "depends_on": "<choice XP_GPIO>",
+                                "help": "\"GPIO_D1\"",
+                                "id": "XP_GPIO_D1",
+                                "name": "XP_GPIO_D1",
+                                "range": null,
+                                "title": "GPIO_D1",
+                                "type": "bool"
+                            }
+                        ],
+                        "depends_on": "ENABLE_TOUCH",
+                        "help": "GPIO number (IOxx) to Touch X(+).",
+                        "id": "tft-configuration-enable-4-line-resistance-touch-screen-gpio-number-ioxx-to-touch-x-",
+                        "name": "XP_GPIO",
+                        "title": "GPIO number (IOxx) to Touch X(+)",
+                        "type": "choice"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "depends_on": "<choice XM_GPIO>",
+                                "help": "\"GPIO_D6\"",
+                                "id": "XM_GPIO_RS",
+                                "name": "XM_GPIO_RS",
+                                "range": null,
+                                "title": "GPIO_RS",
+                                "type": "bool"
+                            },
+                            {
+                                "children": [],
+                                "depends_on": "<choice XM_GPIO>",
+                                "help": "\"GPIO_CS\"",
+                                "id": "XM_GPIO_CS",
+                                "name": "XM_GPIO_CS",
+                                "range": null,
+                                "title": "GPIO_CS",
+                                "type": "bool"
+                            }
+                        ],
+                        "depends_on": "ENABLE_TOUCH",
+                        "help": "GPIO number (IOxx) to Touch X(-).",
+                        "id": "tft-configuration-enable-4-line-resistance-touch-screen-gpio-number-ioxx-to-touch-x-",
+                        "name": "XM_GPIO",
+                        "title": "GPIO number (IOxx) to Touch X(-)",
+                        "type": "choice"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "depends_on": "<choice YP_GPIO>",
+                                "help": "\"GPIO_WR\"",
+                                "id": "YP_GPIO_WR",
+                                "name": "YP_GPIO_WR",
+                                "range": null,
+                                "title": "GPIO_WR",
+                                "type": "bool"
+                            },
+                            {
+                                "children": [],
+                                "depends_on": "<choice YP_GPIO>",
+                                "help": "\"GPIO_CS\"",
+                                "id": "YP_GPIO_CS",
+                                "name": "YP_GPIO_CS",
+                                "range": null,
+                                "title": "GPIO_CS",
+                                "type": "bool"
+                            },
+                            {
+                                "children": [],
+                                "depends_on": "<choice YP_GPIO>",
+                                "help": "\"GPIO_RS\"",
+                                "id": "YP_GPIO_RS",
+                                "name": "YP_GPIO_RS",
+                                "range": null,
+                                "title": "GPIO_RS",
+                                "type": "bool"
+                            }
+                        ],
+                        "depends_on": "ENABLE_TOUCH",
+                        "help": "GPIO number (IOxx) to Touch Y(+).",
+                        "id": "tft-configuration-enable-4-line-resistance-touch-screen-gpio-number-ioxx-to-touch-y-",
+                        "name": "YP_GPIO",
+                        "title": "GPIO number (IOxx) to Touch Y(+)",
+                        "type": "choice"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "depends_on": "<choice YM_GPIO>",
+                                "help": "\"GPIO_D0\"",
+                                "id": "YM_GPIO_D0",
+                                "name": "YM_GPIO_D0",
+                                "range": null,
+                                "title": "GPIO_D0",
+                                "type": "bool"
+                            },
+                            {
+                                "children": [],
+                                "depends_on": "<choice YM_GPIO>",
+                                "help": "\"GPIO_D1\"",
+                                "id": "YM_GPIO_D1",
+                                "name": "YM_GPIO_D1",
+                                "range": null,
+                                "title": "GPIO_D1",
+                                "type": "bool"
+                            },
+                            {
+                                "children": [],
+                                "depends_on": "<choice YM_GPIO>",
+                                "help": "\"GPIO_D7\"",
+                                "id": "YM_GPIO_D7",
+                                "name": "YM_GPIO_D7",
+                                "range": null,
+                                "title": "GPIO_D7",
+                                "type": "bool"
+                            }
+                        ],
+                        "depends_on": "ENABLE_TOUCH",
+                        "help": "GPIO number (IOxx) to Touch Y(-).",
+                        "id": "tft-configuration-enable-4-line-resistance-touch-screen-gpio-number-ioxx-to-touch-y-",
+                        "name": "YM_GPIO",
+                        "title": "GPIO number (IOxx) to Touch Y(-)",
+                        "type": "choice"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "ENABLE_TOUCH",
+                        "help": "Save calibration data to NVS.",
+                        "id": "SAVE_CALIBRATION",
+                        "name": "SAVE_CALIBRATION",
+                        "range": null,
+                        "title": "Save calibration data to NVS",
+                        "type": "bool"
+                    },
+                    {
+                        "children": [],
+                        "depends_on": "ENABLE_TOUCH",
+                        "help": "Enable Touch Check.",
+                        "id": "TOUCH_CHECK",
+                        "name": "TOUCH_CHECK",
+                        "range": null,
+                        "title": "Enable Touch Check",
+                        "type": "bool"
+                    }
+                ],
+                "depends_on": "INTERFACE_REG || INTERFACE_GPIO",
+                "help": "Enable 4-line resistance touch screen.",
+                "id": "ENABLE_TOUCH",
+                "name": "ENABLE_TOUCH",
+                "range": null,
+                "title": "Enable 4-line resistance touch screen",
+                "type": "bool"
+            }
+        ],
+        "depends_on": null,
+        "id": "tft-configuration",
+        "title": "TFT Configuration",
+        "type": "menu"
+    },
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [],
                         "depends_on": "<choice COMPILER_OPTIMIZATION>",
                         "help": null,
                         "id": "COMPILER_OPTIMIZATION_DEFAULT",

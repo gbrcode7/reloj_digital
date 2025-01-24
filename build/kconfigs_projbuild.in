@@ -3,3 +3,4 @@ source "D:/ESP32/Espressif/frameworks/esp-idf-v5.0.2/components/esp_app_format/K
 source "D:/ESP32/Espressif/frameworks/esp-idf-v5.0.2/components/esp_rom/Kconfig.projbuild"
 source "D:/ESP32/Espressif/frameworks/esp-idf-v5.0.2/components/esptool_py/Kconfig.projbuild"
 source "D:/ESP32/Espressif/frameworks/esp-idf-v5.0.2/components/partition_table/Kconfig.projbuild"
+source "D:/Proyectos TV youtube/19. Pantalla TFT/1. Codigo/reloj_digital/main/Kconfig.projbuild"
